@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+.pycache_local/
+*.pyc
+
+# Local working artifacts
+work/
+work_*/
+
+# Sensitive / binary source materials
+*.docx
